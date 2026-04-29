@@ -18,7 +18,7 @@ Full-Stack JavaScript Developer based in Almaty, Kazakhstan with **4+ years** of
 - 🔭 Currently working on **InstaBlogger** — a social media influencer platform (React Native Expo + Node.js)
 - 🌱 Exploring **AI integrations** (Google Gemini, voice recognition) and **mobile development** with Expo
 - 💼 Open to **Full-Stack / Frontend / Backend** developer positions
-- 📧 Reach me at **almat.magzum@gmail.com**
+- 📧 Reach me at **almatmagzum8@gmail.com**
 
 ---
 
