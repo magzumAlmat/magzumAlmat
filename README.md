@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:almat.magzum@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:almatmagzum8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/magzumAlmat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Almaty,_Kazakhstan-blue?style=for-the-badge&logo=google-maps&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=magzumAlmat&style=for-the-badge&color=6C63FF"/>
