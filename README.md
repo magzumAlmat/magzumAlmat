@@ -87,7 +87,7 @@ Full-stack mobile platform connecting bloggers and brands. Features user profile
 
 ---
 
-### 🛒 Totu Marketplace — E-commerce Platform
+### 🛒 Marketplace — E-commerce Platform
 > React + Next.js + Node.js + PostgreSQL + Sequelize
 
 Multi-vendor marketplace with product catalog, shopping cart, checkout system, and order management. Includes Telegram notifications for new orders.
@@ -97,7 +97,7 @@ Multi-vendor marketplace with product catalog, shopping cart, checkout system, a
 
 ---
 
-### 📚 KazNIISA LMS — Learning Management System
+### 📚 LMS — Learning Management System
 > React + Node.js + PostgreSQL + Docker
 
 Enterprise LMS platform for a national research institute. Includes course management, document compiler, user roles, and assessment system.
@@ -127,7 +127,7 @@ Intelligent Telegram sales bot powered by Google Gemini AI. Features natural lan
 
 ---
 
-### 🏗 GenPlan — Urban Planning System
+### 🏗 MapMarkers — Urban Planning System
 > React + Node.js + PostgreSQL
 
 GIS-based urban planning application with interactive maps and building data management for city infrastructure.
@@ -172,8 +172,8 @@ Full-stack application for a premium taxi booking service with driver management
 
 | Area | Technologies | Projects |
 |------|-------------|----------|
-| **E-commerce** | React, Next.js, Node.js, PostgreSQL | Totu Marketplace, HDD Store, SmartShop, Online Shops |
-| **Enterprise** | React, Docker, Sequelize, PostgreSQL | KazNIISA LMS, GenPlan, AGSK Tables, Document Compiler |
+| **E-commerce** | React, Next.js, Node.js, PostgreSQL |  Marketplace, HDD Store, SmartShop, Online Shops |
+| **Enterprise** | React, Docker, Sequelize, PostgreSQL |  LMS,  AGSK Tables, Document Compiler |
 | **Mobile** | React Native, Expo, Firebase | InstaBlogger, ToiBusiness, GPS Tracker, Delivery App |
 | **AI & Bots** | Python, Gemini API, Telegram Bot API, Vosk | AI Sales Chatbot, Voice Recognition, Telegram Bots |
 | **Landing Pages** | HTML, CSS, JavaScript, EJS | BuildingSmart, Toilab, mgeng.kz, Decode Blog |
